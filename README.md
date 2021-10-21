@@ -3,8 +3,9 @@
 
 
 ## Features✨
-
+- Admin can accept or reject any user's request for booking,
 - user can book any type of room online from anywhere 
+- Admin can remover or add any user's information.
 
 
 ## Deployment✈
@@ -27,7 +28,7 @@ This project is used by user's who want to book rooms online from home,
 
   
 ##  About Me 🙋‍♀️
-A Girl Trying to Become a passionate Web Developer
+ Student of Bs(information technology) University of Balochistan, Quetta
 
   🌱 I’m currently learning languages
 
@@ -36,6 +37,11 @@ A Girl Trying to Become a passionate Web Developer
 📫 How to reach me mahimaro101@gmail.com
 
  Html, Python, CSS... 
+ 
+ ## Feedback 🤗️
+
+If you have any feedback, please reach out to me at mahimaro101@gmail.com
+
 ## License
 
 [UOB](https://Uob.edu.pk)
