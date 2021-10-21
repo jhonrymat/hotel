@@ -4,12 +4,9 @@
 
 ## Features✨
 
-- Admin can add teachers and assign courses to them
-- Teacher can submit student's result of specific subject assigned to that teacher
-- A teacher cannot see other teacher's courses and submissions.
+- user can book any type of room online from anywhere 
 
 
-  
 ## Deployment✈
 
 To deploy this project run
