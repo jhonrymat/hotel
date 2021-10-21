@@ -1,4 +1,4 @@
-  # Result Submission📜
+  # Hotel management system📜
   A website on which the student's semester results are submiited by specific teachers, whom which are added and assigned courses by admin
 
 
