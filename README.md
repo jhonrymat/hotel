@@ -1,54 +1,59 @@
-  # Hotel management system📜
-  A website on which the student's semester results are submiited by specific teachers, whom which are added and assigned courses by admin
+  # Hotel Colombia📜
+ Un sitio web desarrollado con flask, en donde se ven reflejados los resultados
+ de los conocimientos adquiridos en el ciclo 3.
 
 
-## Features✨
-- Admin can accept or reject any user's request for booking,
-- user can book any type of room online from anywhere 
-- Admin can remover or add any user's information.
+## Características✨
+- El administrador puede aceptar o rechazar la solicitud de reserva de cualquier usuario.
+- el usuario puede reservar cualquier tipo de habitación en línea desde cualquier lugar.
+- El administrador puede eliminar o agregar la información de cualquier usuario.
 
 
-## Deployment✈
+## Despliegue✈
 
-To deploy this project run
+Para implementar este proyecto, ejecute
 
 ```bash
   cd /source folder/app.py
 ```
 
   
-## Used By 💯
+## Usado por 💯
 
-This project is used by user's who want to book rooms online from home,
-
-  
-## Authors 💻
-
-- [Mahrukh Ibrahim](https://github.com/mahrukh123484)
+Este proyecto es utilizado por usuarios que desean reservar habitaciones en línea desde casa.
 
   
-##  About Me 🙋‍♀️
- Student of Bs(information technology) University of Balochistan, Quetta
+## Autores 💻
 
-  🌱 I’m currently learning languages
+-[fritzj@uninorte.edu.co]
+-[andresfq@uninorte.edu.co]
+-[ijcorrea@uninorte.edu.co]
+-[jjespana@uninorte.edu.co]
+-[jmatoma@uninorte.edu.co]
 
-💬 Ask me about website frontend
+  
+##  Sobre nosotros 🙋‍♀️
+ Somos estudiandes de la universidad del norte en colombia
 
-📫 How to reach me mahimaro101@gmail.com
+  🌱 Actualmente estamos aprendiendo python (Flask)
+
+💬 Pregúntame sobre la interfaz del sitio web
+
+📫 Como llegar a mi jhonrymat@gmail.com
 
  Html, Python, CSS... 
  
- ## Feedback 🤗️
+ ## Realimentación 🤗️
 
-If you have any feedback, please reach out to me at mahimaro101@gmail.com
+Si tiene algún comentario, comuníquese conmigo en jhonrymat@gmail.com
 
-## License
+## Licencia
 
 [UOB](https://Uob.edu.pk)
 
   
-## Support 🏋️‍♀️
+## Soporte🏋️‍♀️
 
-For support, mahimaro101@gmail.com
+para soporte, jhonrymat@gmail.com
 
   
